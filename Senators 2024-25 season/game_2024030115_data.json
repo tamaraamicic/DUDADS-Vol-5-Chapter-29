@@ -1,0 +1,552 @@
+{
+  "id": 2024030115,
+  "season": 20242025,
+  "gameType": 3,
+  "limitedScoring": false,
+  "gameDate": "2025-04-29",
+  "venue": {
+    "default": "Scotiabank Arena"
+  },
+  "venueLocation": {
+    "default": "Toronto"
+  },
+  "startTimeUTC": "2025-04-29T23:00:00Z",
+  "easternUTCOffset": "-04:00",
+  "venueUTCOffset": "-04:00",
+  "venueTimezone": "America/Toronto",
+  "periodDescriptor": {
+    "number": 3,
+    "periodType": "REG",
+    "maxRegulationPeriods": 3
+  },
+  "tvBroadcasts": [
+    {
+      "id": 309,
+      "market": "N",
+      "countryCode": "US",
+      "network": "ESPN",
+      "sequenceNumber": 10
+    },
+    {
+      "id": 4,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "CBC",
+      "sequenceNumber": 25
+    },
+    {
+      "id": 282,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "SN",
+      "sequenceNumber": 101
+    },
+    {
+      "id": 281,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "TVAS",
+      "sequenceNumber": 109
+    }
+  ],
+  "gameState": "OFF",
+  "gameScheduleState": "OK",
+  "awayTeam": {
+    "id": 9,
+    "commonName": {
+      "default": "Senators",
+      "fr": "S\u00e9nateurs"
+    },
+    "abbrev": "OTT",
+    "placeName": {
+      "default": "Ottawa"
+    },
+    "placeNameWithPreposition": {
+      "default": "Ottawa",
+      "fr": "d'Ottawa"
+    },
+    "score": 4,
+    "sog": 19,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+  },
+  "homeTeam": {
+    "id": 10,
+    "commonName": {
+      "default": "Maple Leafs"
+    },
+    "abbrev": "TOR",
+    "placeName": {
+      "default": "Toronto"
+    },
+    "placeNameWithPreposition": {
+      "default": "Toronto",
+      "fr": "de Toronto"
+    },
+    "score": 0,
+    "sog": 29,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg"
+  },
+  "shootoutInUse": false,
+  "regPeriods": 3,
+  "otInUse": true,
+  "tiesInUse": false,
+  "summary": {
+    "scoring": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": []
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1551",
+            "eventId": 640,
+            "strength": "ev",
+            "playerId": 8478469,
+            "firstName": {
+              "default": "Thomas"
+            },
+            "lastName": {
+              "default": "Chabot"
+            },
+            "name": {
+              "default": "T. Chabot"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8478469.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-chabot-scores-goal-against-anthony-stolarz-6372088175112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-chabot-marque-un-but-contre-anthony-stolarz-6372089737112",
+            "highlightClip": 6372088175112,
+            "highlightClipFr": 6372089737112,
+            "discreteClip": 6372090319112,
+            "discreteClipFr": 6372088840112,
+            "goalsToDate": 1,
+            "awayScore": 1,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "03:46",
+            "shotType": "snap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8480801,
+                "firstName": {
+                  "default": "Brady"
+                },
+                "lastName": {
+                  "default": "Tkachuk"
+                },
+                "name": {
+                  "default": "B. Tkachuk"
+                },
+                "assistsToDate": 2,
+                "sweaterNumber": 7
+              },
+              {
+                "playerId": 8482116,
+                "firstName": {
+                  "default": "Tim"
+                },
+                "lastName": {
+                  "default": "St\u00fctzle"
+                },
+                "name": {
+                  "default": "T. St\u00fctzle"
+                },
+                "assistsToDate": 2,
+                "sweaterNumber": 18
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030115/ev640.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": false
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1451",
+            "eventId": 1049,
+            "strength": "sh",
+            "playerId": 8481528,
+            "firstName": {
+              "default": "Dylan"
+            },
+            "lastName": {
+              "default": "Cozens"
+            },
+            "name": {
+              "default": "D. Cozens"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8481528.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-cozens-scores-shg-against-anthony-stolarz-6372091757112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-cozens-marque-un-but-en-i-n-contre-anthony-stolarz-6372091956112",
+            "highlightClip": 6372091757112,
+            "highlightClipFr": 6372091956112,
+            "discreteClip": 6372091862112,
+            "discreteClipFr": 6372092135112,
+            "goalsToDate": 1,
+            "awayScore": 2,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "08:24",
+            "shotType": "snap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8478874,
+                "firstName": {
+                  "default": "Adam"
+                },
+                "lastName": {
+                  "default": "Gaudette"
+                },
+                "name": {
+                  "default": "A. Gaudette"
+                },
+                "assistsToDate": 2,
+                "sweaterNumber": 81
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030115/ev1049.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          },
+          {
+            "situationCode": "1560",
+            "eventId": 1233,
+            "strength": "ev",
+            "playerId": 8482116,
+            "firstName": {
+              "default": "Tim"
+            },
+            "lastName": {
+              "default": "St\u00fctzle"
+            },
+            "name": {
+              "default": "T. St\u00fctzle"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482116.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-stutzle-scores-empty-net-goal-6372089191112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-stutzle-ott-marque-un-but-dans-un-filet-desert-6372090479112",
+            "highlightClip": 6372089191112,
+            "highlightClipFr": 6372090479112,
+            "discreteClip": 6372090593112,
+            "discreteClipFr": 6372092336112,
+            "goalsToDate": 2,
+            "awayScore": 3,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "17:09",
+            "shotType": "wrist",
+            "goalModifier": "empty-net",
+            "assists": [
+              {
+                "playerId": 8473512,
+                "firstName": {
+                  "default": "Claude"
+                },
+                "lastName": {
+                  "default": "Giroux"
+                },
+                "name": {
+                  "default": "C. Giroux"
+                },
+                "assistsToDate": 3,
+                "sweaterNumber": 28
+              },
+              {
+                "playerId": 8480801,
+                "firstName": {
+                  "default": "Brady"
+                },
+                "lastName": {
+                  "default": "Tkachuk"
+                },
+                "name": {
+                  "default": "B. Tkachuk"
+                },
+                "assistsToDate": 3,
+                "sweaterNumber": 7
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030115/ev1233.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          },
+          {
+            "situationCode": "1560",
+            "eventId": 1259,
+            "strength": "ev",
+            "playerId": 8480801,
+            "firstName": {
+              "default": "Brady"
+            },
+            "lastName": {
+              "default": "Tkachuk"
+            },
+            "name": {
+              "default": "B. Tkachuk"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8480801.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-tkachuk-scores-empty-net-goal-6372091291112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-tkachuk-ott-marque-un-but-dans-un-filet-desert-6372090789112",
+            "highlightClip": 6372091291112,
+            "highlightClipFr": 6372090789112,
+            "discreteClip": 6372091770112,
+            "discreteClipFr": 6372093033112,
+            "goalsToDate": 3,
+            "awayScore": 4,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "19:13",
+            "shotType": "wrist",
+            "goalModifier": "empty-net",
+            "assists": [
+              {
+                "playerId": 8482116,
+                "firstName": {
+                  "default": "Tim"
+                },
+                "lastName": {
+                  "default": "St\u00fctzle"
+                },
+                "name": {
+                  "default": "T. St\u00fctzle"
+                },
+                "assistsToDate": 3,
+                "sweaterNumber": 18
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030115/ev1259.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          }
+        ]
+      }
+    ],
+    "shootout": [],
+    "threeStars": [
+      {
+        "star": 1,
+        "playerId": 8476999,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8476999.png",
+        "name": {
+          "default": "L. Ullmark"
+        },
+        "sweaterNo": 35,
+        "position": "G",
+        "goalsAgainstAverage": 0.0,
+        "savePctg": 1.0
+      },
+      {
+        "star": 2,
+        "playerId": 8475690,
+        "teamAbbrev": "TOR",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8475690.png",
+        "name": {
+          "default": "C. Tanev"
+        },
+        "sweaterNo": 8,
+        "position": "D",
+        "goals": 0,
+        "assists": 0,
+        "points": 0
+      },
+      {
+        "star": 3,
+        "playerId": 8482116,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482116.png",
+        "name": {
+          "default": "T. St\u00fctzle"
+        },
+        "sweaterNo": 18,
+        "position": "C",
+        "goals": 1,
+        "assists": 2,
+        "points": 3
+      }
+    ],
+    "penalties": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "14:54",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "R. Greig"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Knies"
+            },
+            "descKey": "cross-checking"
+          },
+          {
+            "timeInPeriod": "16:03",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Knies"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "A. Zub"
+            },
+            "descKey": "slashing"
+          },
+          {
+            "timeInPeriod": "18:25",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Rielly"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "T. Chabot"
+            },
+            "descKey": "cross-checking"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "06:00",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Chabot"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "C. Jarnkrok",
+              "cs": "C. J\u00e4rnkrok",
+              "fi": "C. J\u00e4rnkrok",
+              "sk": "C. J\u00e4rnkrok"
+            },
+            "descKey": "high-sticking"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "06:58",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "R. Greig"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Marner"
+            },
+            "descKey": "holding"
+          },
+          {
+            "timeInPeriod": "19:52",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Kleven"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "S. Benoit"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:52",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "S. Benoit"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "T. Kleven"
+            },
+            "descKey": "roughing"
+          }
+        ]
+      }
+    ]
+  },
+  "clock": {
+    "timeRemaining": "00:00",
+    "secondsRemaining": 0,
+    "running": false,
+    "inIntermission": false
+  }
+}

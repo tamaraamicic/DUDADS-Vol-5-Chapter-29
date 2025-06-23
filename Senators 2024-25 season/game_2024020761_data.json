@@ -1,0 +1,421 @@
+{
+  "id": 2024020761,
+  "season": 20242025,
+  "gameType": 2,
+  "limitedScoring": false,
+  "gameDate": "2025-01-23",
+  "venue": {
+    "default": "TD Garden"
+  },
+  "venueLocation": {
+    "default": "Boston"
+  },
+  "startTimeUTC": "2025-01-24T00:00:00Z",
+  "easternUTCOffset": "-05:00",
+  "venueUTCOffset": "-05:00",
+  "venueTimezone": "US/Eastern",
+  "periodDescriptor": {
+    "number": 3,
+    "periodType": "REG",
+    "maxRegulationPeriods": 3
+  },
+  "tvBroadcasts": [
+    {
+      "id": 230,
+      "market": "A",
+      "countryCode": "CA",
+      "network": "RDS2",
+      "sequenceNumber": 133
+    },
+    {
+      "id": 294,
+      "market": "A",
+      "countryCode": "CA",
+      "network": "TSN5",
+      "sequenceNumber": 135
+    },
+    {
+      "id": 31,
+      "market": "H",
+      "countryCode": "US",
+      "network": "NESN",
+      "sequenceNumber": 396
+    }
+  ],
+  "gameState": "OFF",
+  "gameScheduleState": "OK",
+  "awayTeam": {
+    "id": 9,
+    "commonName": {
+      "default": "Senators",
+      "fr": "S\u00e9nateurs"
+    },
+    "abbrev": "OTT",
+    "placeName": {
+      "default": "Ottawa"
+    },
+    "placeNameWithPreposition": {
+      "default": "Ottawa",
+      "fr": "d'Ottawa"
+    },
+    "score": 0,
+    "sog": 29,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+  },
+  "homeTeam": {
+    "id": 6,
+    "commonName": {
+      "default": "Bruins"
+    },
+    "abbrev": "BOS",
+    "placeName": {
+      "default": "Boston"
+    },
+    "placeNameWithPreposition": {
+      "default": "Boston",
+      "fr": "de Boston"
+    },
+    "score": 2,
+    "sog": 26,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_dark.svg"
+  },
+  "shootoutInUse": true,
+  "maxPeriods": 5,
+  "regPeriods": 3,
+  "otInUse": true,
+  "tiesInUse": false,
+  "summary": {
+    "scoring": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": []
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1551",
+            "eventId": 498,
+            "strength": "ev",
+            "playerId": 8479987,
+            "firstName": {
+              "default": "Morgan"
+            },
+            "lastName": {
+              "default": "Geekie"
+            },
+            "name": {
+              "default": "M. Geekie"
+            },
+            "teamAbbrev": {
+              "default": "BOS"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BOS/8479987.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-bos-geekie-scores-goal-against-anton-forsberg-6367596666112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-bos-geekie-marque-un-but-contre-anton-forsberg-6367596371112",
+            "highlightClip": 6367596666112,
+            "highlightClipFr": 6367596371112,
+            "discreteClip": 6367597241112,
+            "discreteClipFr": 6367596474112,
+            "goalsToDate": 13,
+            "awayScore": 0,
+            "homeScore": 1,
+            "leadingTeamAbbrev": {
+              "default": "BOS"
+            },
+            "timeInPeriod": "02:06",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8477956,
+                "firstName": {
+                  "default": "David"
+                },
+                "lastName": {
+                  "default": "Pastrnak",
+                  "cs": "Pastr\u0148\u00e1k",
+                  "sk": "Pastr\u0148\u00e1k"
+                },
+                "name": {
+                  "default": "D. Pastrnak",
+                  "cs": "D. Pastr\u0148\u00e1k",
+                  "sk": "D. Pastr\u0148\u00e1k"
+                },
+                "assistsToDate": 33,
+                "sweaterNumber": 88
+              },
+              {
+                "playerId": 8478443,
+                "firstName": {
+                  "default": "Brandon"
+                },
+                "lastName": {
+                  "default": "Carlo"
+                },
+                "name": {
+                  "default": "B. Carlo"
+                },
+                "assistsToDate": 6,
+                "sweaterNumber": 25
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020761/ev498.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": true
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "0651",
+            "eventId": 1189,
+            "strength": "ev",
+            "playerId": 8477956,
+            "firstName": {
+              "default": "David"
+            },
+            "lastName": {
+              "default": "Pastrnak",
+              "cs": "Pastr\u0148\u00e1k",
+              "sk": "Pastr\u0148\u00e1k"
+            },
+            "name": {
+              "default": "D. Pastrnak",
+              "cs": "D. Pastr\u0148\u00e1k",
+              "sk": "D. Pastr\u0148\u00e1k"
+            },
+            "teamAbbrev": {
+              "default": "BOS"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BOS/8477956.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-bos-pastrnak-scores-empty-net-goal-6367603009112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-bos-pastrnak-bos-marque-un-but-dans-un-filet-desert-6367603686112",
+            "highlightClip": 6367603009112,
+            "highlightClipFr": 6367603686112,
+            "discreteClip": 6367602229112,
+            "discreteClipFr": 6367602629112,
+            "goalsToDate": 23,
+            "awayScore": 0,
+            "homeScore": 2,
+            "leadingTeamAbbrev": {
+              "default": "BOS"
+            },
+            "timeInPeriod": "19:55",
+            "shotType": "wrist",
+            "goalModifier": "empty-net",
+            "assists": [],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020761/ev1189.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": true
+          }
+        ]
+      }
+    ],
+    "shootout": [],
+    "threeStars": [
+      {
+        "star": 1,
+        "playerId": 8476914,
+        "teamAbbrev": "BOS",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BOS/8476914.png",
+        "name": {
+          "default": "J. Korpisalo"
+        },
+        "sweaterNo": 70,
+        "position": "G",
+        "goalsAgainstAverage": 0.0,
+        "savePctg": 1.0
+      },
+      {
+        "star": 2,
+        "playerId": 8479987,
+        "teamAbbrev": "BOS",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BOS/8479987.png",
+        "name": {
+          "default": "M. Geekie"
+        },
+        "sweaterNo": 39,
+        "position": "C",
+        "goals": 1,
+        "assists": 0,
+        "points": 1
+      },
+      {
+        "star": 3,
+        "playerId": 8476341,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8476341.png",
+        "name": {
+          "default": "A. Forsberg"
+        },
+        "sweaterNo": 31,
+        "position": "G",
+        "goalsAgainstAverage": 1.04,
+        "savePctg": 0.96
+      }
+    ],
+    "penalties": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "11:54",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "John Beecher"
+            },
+            "teamAbbrev": {
+              "default": "BOS"
+            },
+            "drawnBy": {
+              "default": "Nikolas Matinpalo"
+            },
+            "descKey": "holding-the-stick"
+          },
+          {
+            "timeInPeriod": "14:30",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Geekie"
+            },
+            "teamAbbrev": {
+              "default": "BOS"
+            },
+            "drawnBy": {
+              "default": "B. Tkachuk"
+            },
+            "descKey": "high-sticking"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "09:47",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Chabot"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Geekie"
+            },
+            "descKey": "cross-checking"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "05:18",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "A. Zub"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "C. Coyle"
+            },
+            "descKey": "interference"
+          },
+          {
+            "timeInPeriod": "09:21",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Zadorov"
+            },
+            "teamAbbrev": {
+              "default": "BOS"
+            },
+            "drawnBy": {
+              "default": "B. Tkachuk"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "10:49",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "P. Brown"
+            },
+            "teamAbbrev": {
+              "default": "BOS"
+            },
+            "descKey": "delaying-game-puck-over-glass"
+          },
+          {
+            "timeInPeriod": "19:55",
+            "type": "MIS",
+            "duration": 10,
+            "committedByPlayer": {
+              "default": "B. Tkachuk"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "descKey": "misconduct"
+          },
+          {
+            "timeInPeriod": "19:55",
+            "type": "MIS",
+            "duration": 10,
+            "committedByPlayer": {
+              "default": "N. Zadorov"
+            },
+            "teamAbbrev": {
+              "default": "BOS"
+            },
+            "descKey": "misconduct"
+          }
+        ]
+      }
+    ]
+  },
+  "clock": {
+    "timeRemaining": "00:00",
+    "secondsRemaining": 0,
+    "running": false,
+    "inIntermission": false
+  }
+}

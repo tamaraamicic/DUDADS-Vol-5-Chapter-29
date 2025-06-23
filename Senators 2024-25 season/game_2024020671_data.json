@@ -1,0 +1,792 @@
+{
+  "id": 2024020671,
+  "season": 20242025,
+  "gameType": 2,
+  "limitedScoring": false,
+  "gameDate": "2025-01-11",
+  "venue": {
+    "default": "PPG Paints Arena"
+  },
+  "venueLocation": {
+    "default": "Pittsburgh"
+  },
+  "startTimeUTC": "2025-01-11T21:00:00Z",
+  "easternUTCOffset": "-05:00",
+  "venueUTCOffset": "-05:00",
+  "venueTimezone": "US/Eastern",
+  "periodDescriptor": {
+    "number": 3,
+    "periodType": "REG",
+    "maxRegulationPeriods": 3
+  },
+  "tvBroadcasts": [
+    {
+      "id": 281,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "TVAS",
+      "sequenceNumber": 109
+    },
+    {
+      "id": 294,
+      "market": "A",
+      "countryCode": "CA",
+      "network": "TSN5",
+      "sequenceNumber": 135
+    },
+    {
+      "id": 528,
+      "market": "H",
+      "countryCode": "US",
+      "network": "SN-PIT",
+      "sequenceNumber": 375
+    }
+  ],
+  "gameState": "OFF",
+  "gameScheduleState": "OK",
+  "awayTeam": {
+    "id": 9,
+    "commonName": {
+      "default": "Senators",
+      "fr": "S\u00e9nateurs"
+    },
+    "abbrev": "OTT",
+    "placeName": {
+      "default": "Ottawa"
+    },
+    "placeNameWithPreposition": {
+      "default": "Ottawa",
+      "fr": "d'Ottawa"
+    },
+    "score": 5,
+    "sog": 22,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+  },
+  "homeTeam": {
+    "id": 5,
+    "commonName": {
+      "default": "Penguins"
+    },
+    "abbrev": "PIT",
+    "placeName": {
+      "default": "Pittsburgh"
+    },
+    "placeNameWithPreposition": {
+      "default": "Pittsburgh",
+      "fr": "de Pittsburgh"
+    },
+    "score": 0,
+    "sog": 29,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PIT_dark.svg"
+  },
+  "shootoutInUse": true,
+  "maxPeriods": 5,
+  "regPeriods": 3,
+  "otInUse": true,
+  "tiesInUse": false,
+  "summary": {
+    "scoring": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1551",
+            "eventId": 139,
+            "strength": "ev",
+            "playerId": 8482095,
+            "firstName": {
+              "default": "Tyler"
+            },
+            "lastName": {
+              "default": "Kleven"
+            },
+            "name": {
+              "default": "T. Kleven"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482095.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-pit-kleven-scores-goal-against-alex-nedeljkovic-6366967562112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-pit-kleven-marque-un-but-contre-alex-nedeljkovic-6366967569112",
+            "highlightClip": 6366967562112,
+            "highlightClipFr": 6366967569112,
+            "discreteClip": 6366968816112,
+            "discreteClipFr": 6366968709112,
+            "goalsToDate": 2,
+            "awayScore": 1,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "03:16",
+            "shotType": "slap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8473512,
+                "firstName": {
+                  "default": "Claude"
+                },
+                "lastName": {
+                  "default": "Giroux"
+                },
+                "name": {
+                  "default": "C. Giroux"
+                },
+                "assistsToDate": 16,
+                "sweaterNumber": 28
+              },
+              {
+                "playerId": 8478874,
+                "firstName": {
+                  "default": "Adam"
+                },
+                "lastName": {
+                  "default": "Gaudette"
+                },
+                "name": {
+                  "default": "A. Gaudette"
+                },
+                "assistsToDate": 5,
+                "sweaterNumber": 81
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020671/ev139.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": false
+          },
+          {
+            "situationCode": "1541",
+            "eventId": 167,
+            "strength": "pp",
+            "playerId": 8481596,
+            "firstName": {
+              "default": "Shane"
+            },
+            "lastName": {
+              "default": "Pinto"
+            },
+            "name": {
+              "default": "S. Pinto"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8481596.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-pit-pinto-scores-ppg-against-alex-nedeljkovic-6366968039112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-pit-pinto-marque-un-but-en-a-n-contre-alex-nedeljkovic-6366968151112",
+            "highlightClip": 6366968039112,
+            "highlightClipFr": 6366968151112,
+            "discreteClip": 6366968919112,
+            "discreteClipFr": 6366967871112,
+            "goalsToDate": 7,
+            "awayScore": 2,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "05:14",
+            "shotType": "slap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8473512,
+                "firstName": {
+                  "default": "Claude"
+                },
+                "lastName": {
+                  "default": "Giroux"
+                },
+                "name": {
+                  "default": "C. Giroux"
+                },
+                "assistsToDate": 17,
+                "sweaterNumber": 28
+              },
+              {
+                "playerId": 8478469,
+                "firstName": {
+                  "default": "Thomas"
+                },
+                "lastName": {
+                  "default": "Chabot"
+                },
+                "name": {
+                  "default": "T. Chabot"
+                },
+                "assistsToDate": 16,
+                "sweaterNumber": 72
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020671/ev167.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": false
+          },
+          {
+            "situationCode": "1451",
+            "eventId": 438,
+            "strength": "sh",
+            "playerId": 8481596,
+            "firstName": {
+              "default": "Shane"
+            },
+            "lastName": {
+              "default": "Pinto"
+            },
+            "name": {
+              "default": "S. Pinto"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8481596.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-pit-pinto-scores-shg-against-alex-nedeljkovic-6366969929112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-pit-pinto-marque-un-but-en-i-n-contre-alex-nedeljkovic-6366969849112",
+            "highlightClip": 6366969929112,
+            "highlightClipFr": 6366969849112,
+            "discreteClip": 6366970515112,
+            "discreteClipFr": 6366968996112,
+            "goalsToDate": 8,
+            "awayScore": 3,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "19:04",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8482092,
+                "firstName": {
+                  "default": "Ridly"
+                },
+                "lastName": {
+                  "default": "Greig"
+                },
+                "name": {
+                  "default": "R. Greig"
+                },
+                "assistsToDate": 7,
+                "sweaterNumber": 71
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020671/ev438.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": false
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1541",
+            "eventId": 510,
+            "strength": "pp",
+            "playerId": 8480208,
+            "firstName": {
+              "default": "Drake"
+            },
+            "lastName": {
+              "default": "Batherson"
+            },
+            "name": {
+              "default": "D. Batherson"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8480208.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/drake-batherson-with-a-goal-vs-pittsburgh-penguins-6366971320112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-pit-batherson-marque-un-but-contre-alex-nedeljkovic-6366970055112",
+            "highlightClip": 6366971320112,
+            "highlightClipFr": 6366970055112,
+            "discreteClip": 6366969602112,
+            "discreteClipFr": 6366969882112,
+            "goalsToDate": 14,
+            "awayScore": 4,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "00:41",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8480064,
+                "firstName": {
+                  "default": "Josh"
+                },
+                "lastName": {
+                  "default": "Norris"
+                },
+                "name": {
+                  "default": "J. Norris"
+                },
+                "assistsToDate": 9,
+                "sweaterNumber": 9
+              },
+              {
+                "playerId": 8482105,
+                "firstName": {
+                  "default": "Jake"
+                },
+                "lastName": {
+                  "default": "Sanderson"
+                },
+                "name": {
+                  "default": "J. Sanderson"
+                },
+                "assistsToDate": 21,
+                "sweaterNumber": 85
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020671/ev510.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          },
+          {
+            "situationCode": "1551",
+            "eventId": 553,
+            "strength": "ev",
+            "playerId": 8482116,
+            "firstName": {
+              "default": "Tim"
+            },
+            "lastName": {
+              "default": "St\u00fctzle"
+            },
+            "name": {
+              "default": "T. St\u00fctzle"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482116.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-pit-stutzle-scores-goal-against-alex-nedeljkovic-6366971051112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-pit-stutzle-marque-un-but-contre-alex-nedeljkovic-6366970260112",
+            "highlightClip": 6366971051112,
+            "highlightClipFr": 6366970260112,
+            "discreteClip": 6366969691112,
+            "discreteClipFr": 6366970780112,
+            "goalsToDate": 13,
+            "awayScore": 5,
+            "homeScore": 0,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "07:06",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8473512,
+                "firstName": {
+                  "default": "Claude"
+                },
+                "lastName": {
+                  "default": "Giroux"
+                },
+                "name": {
+                  "default": "C. Giroux"
+                },
+                "assistsToDate": 18,
+                "sweaterNumber": 28
+              },
+              {
+                "playerId": 8475324,
+                "firstName": {
+                  "default": "Nick"
+                },
+                "lastName": {
+                  "default": "Jensen"
+                },
+                "name": {
+                  "default": "N. Jensen"
+                },
+                "assistsToDate": 13,
+                "sweaterNumber": 3
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020671/ev553.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": []
+      }
+    ],
+    "shootout": [],
+    "threeStars": [
+      {
+        "star": 1,
+        "playerId": 8481596,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8481596.png",
+        "name": {
+          "default": "S. Pinto"
+        },
+        "sweaterNo": 12,
+        "position": "C",
+        "goals": 2,
+        "assists": 0,
+        "points": 2
+      },
+      {
+        "star": 2,
+        "playerId": 8473512,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8473512.png",
+        "name": {
+          "default": "C. Giroux"
+        },
+        "sweaterNo": 28,
+        "position": "R",
+        "goals": 0,
+        "assists": 3,
+        "points": 3
+      },
+      {
+        "star": 3,
+        "playerId": 8482447,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482447.png",
+        "name": {
+          "default": "L. Meril\u00e4inen"
+        },
+        "sweaterNo": 1,
+        "position": "G",
+        "goalsAgainstAverage": 0.0,
+        "savePctg": 1.0
+      }
+    ],
+    "penalties": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "03:16",
+            "type": "BEN",
+            "duration": 2,
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "descKey": "delaying-game-unsuccessful-challenge",
+            "servedBy": {
+              "default": "M. Bunting"
+            }
+          },
+          {
+            "timeInPeriod": "07:05",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "P. Joseph"
+            },
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "drawnBy": {
+              "default": "N. Cousins"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "07:05",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Bunting"
+            },
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "drawnBy": {
+              "default": "N. Cousins"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "07:05",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Cousins"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Bunting"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "07:05",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Bunting"
+            },
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "drawnBy": {
+              "default": "N. Cousins"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "07:05",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "Z. Ostapchuk"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Bunting"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "07:05",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Cousins"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Bunting"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "08:55",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "D. Batherson"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "N. Acciari"
+            },
+            "descKey": "high-sticking"
+          },
+          {
+            "timeInPeriod": "11:18",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Nieto"
+            },
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "drawnBy": {
+              "default": "A. Zub"
+            },
+            "descKey": "slashing"
+          },
+          {
+            "timeInPeriod": "11:43",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. St\u00fctzle"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "N. Acciari"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "15:19",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "A. Nedeljkovic"
+            },
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "drawnBy": {
+              "default": "D. Batherson"
+            },
+            "descKey": "unsportsmanlike-conduct",
+            "servedBy": {
+              "default": "J. Puljujarvi",
+              "cs": "J. Puljuj\u00e4rvi",
+              "fi": "J. Puljuj\u00e4rvi",
+              "sk": "J. Puljuj\u00e4rvi",
+              "sv": "J. Puljuj\u00e4rvi"
+            }
+          },
+          {
+            "timeInPeriod": "15:19",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "D. Batherson"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "A. Nedeljkovic"
+            },
+            "descKey": "unsportsmanlike-conduct"
+          },
+          {
+            "timeInPeriod": "15:19",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "C. Reinhardt"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "K. Letang"
+            },
+            "descKey": "unsportsmanlike-conduct"
+          },
+          {
+            "timeInPeriod": "17:53",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Cousins"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "B. Lizotte"
+            },
+            "descKey": "boarding"
+          },
+          {
+            "timeInPeriod": "20:00",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "S. Crosby"
+            },
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "drawnBy": {
+              "default": "T. Chabot"
+            },
+            "descKey": "slashing"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "03:19",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Bunting"
+            },
+            "teamAbbrev": {
+              "default": "PIT"
+            },
+            "drawnBy": {
+              "default": "Z. Ostapchuk"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "08:08",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Kleven"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "R. Rakell"
+            },
+            "descKey": "interference"
+          },
+          {
+            "timeInPeriod": "17:09",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Cousins"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Bunting"
+            },
+            "descKey": "illegal-check-to-head"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": []
+      }
+    ]
+  },
+  "clock": {
+    "timeRemaining": "00:00",
+    "secondsRemaining": 0,
+    "running": false,
+    "inIntermission": false
+  }
+}

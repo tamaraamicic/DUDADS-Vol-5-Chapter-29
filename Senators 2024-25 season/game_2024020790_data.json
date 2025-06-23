@@ -1,0 +1,563 @@
+{
+  "id": 2024020790,
+  "season": 20242025,
+  "gameType": 2,
+  "limitedScoring": false,
+  "gameDate": "2025-01-26",
+  "venue": {
+    "default": "Canadian Tire Centre"
+  },
+  "venueLocation": {
+    "default": "Ottawa"
+  },
+  "startTimeUTC": "2025-01-26T22:00:00Z",
+  "easternUTCOffset": "-05:00",
+  "venueUTCOffset": "-05:00",
+  "venueTimezone": "US/Eastern",
+  "periodDescriptor": {
+    "number": 3,
+    "periodType": "REG",
+    "maxRegulationPeriods": 3
+  },
+  "tvBroadcasts": [
+    {
+      "id": 230,
+      "market": "H",
+      "countryCode": "CA",
+      "network": "RDS2",
+      "sequenceNumber": 133
+    },
+    {
+      "id": 294,
+      "market": "H",
+      "countryCode": "CA",
+      "network": "TSN5",
+      "sequenceNumber": 135
+    },
+    {
+      "id": 558,
+      "market": "A",
+      "countryCode": "US",
+      "network": "Utah16",
+      "sequenceNumber": 372
+    }
+  ],
+  "gameState": "OFF",
+  "gameScheduleState": "OK",
+  "awayTeam": {
+    "id": 59,
+    "commonName": {
+      "default": "Utah Hockey Club",
+      "fr": "Club de hockey de l'Utah"
+    },
+    "abbrev": "UTA",
+    "placeName": {
+      "default": "Utah"
+    },
+    "placeNameWithPreposition": {
+      "default": "Utah",
+      "fr": "de l'Utah"
+    },
+    "score": 1,
+    "sog": 35,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/UTA_20242025-20242025_dark.svg"
+  },
+  "homeTeam": {
+    "id": 9,
+    "commonName": {
+      "default": "Senators",
+      "fr": "S\u00e9nateurs"
+    },
+    "abbrev": "OTT",
+    "placeName": {
+      "default": "Ottawa"
+    },
+    "placeNameWithPreposition": {
+      "default": "Ottawa",
+      "fr": "d'Ottawa"
+    },
+    "score": 3,
+    "sog": 27,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+  },
+  "shootoutInUse": true,
+  "maxPeriods": 5,
+  "regPeriods": 3,
+  "otInUse": true,
+  "tiesInUse": false,
+  "summary": {
+    "scoring": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": []
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1541",
+            "eventId": 792,
+            "strength": "sh",
+            "playerId": 8482092,
+            "firstName": {
+              "default": "Ridly"
+            },
+            "lastName": {
+              "default": "Greig"
+            },
+            "name": {
+              "default": "R. Greig"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482092.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/uta-ott-greig-scores-shg-against-karel-vejmelka-6367805124112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/uta-ott-greig-marque-un-but-en-i-n-contre-karel-vejmelka-6367805689112",
+            "highlightClip": 6367805124112,
+            "highlightClipFr": 6367805689112,
+            "discreteClip": 6367806293112,
+            "discreteClipFr": 6367804335112,
+            "goalsToDate": 7,
+            "awayScore": 0,
+            "homeScore": 1,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "12:16",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8481596,
+                "firstName": {
+                  "default": "Shane"
+                },
+                "lastName": {
+                  "default": "Pinto"
+                },
+                "name": {
+                  "default": "S. Pinto"
+                },
+                "assistsToDate": 9,
+                "sweaterNumber": 12
+              },
+              {
+                "playerId": 8482245,
+                "firstName": {
+                  "default": "Artem",
+                  "cs": "Ar\u0165om",
+                  "fi": "Artjom",
+                  "sk": "Ar\u0165om"
+                },
+                "lastName": {
+                  "default": "Zub"
+                },
+                "name": {
+                  "default": "A. Zub"
+                },
+                "assistsToDate": 3,
+                "sweaterNumber": 2
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020790/ev792.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": true
+          },
+          {
+            "situationCode": "1551",
+            "eventId": 810,
+            "strength": "ev",
+            "playerId": 8479343,
+            "firstName": {
+              "default": "Clayton"
+            },
+            "lastName": {
+              "default": "Keller"
+            },
+            "name": {
+              "default": "C. Keller"
+            },
+            "teamAbbrev": {
+              "default": "UTA"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/UTA/8479343.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/uta-ott-keller-scores-ppg-against-leevi-merilainen-6367804846112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/uta-ott-keller-marque-un-but-en-a-n-contre-leevi-merilainen-6367804352112",
+            "highlightClip": 6367804846112,
+            "highlightClipFr": 6367804352112,
+            "discreteClip": 6367804845112,
+            "discreteClipFr": 6367805787112,
+            "goalsToDate": 18,
+            "awayScore": 1,
+            "homeScore": 1,
+            "timeInPeriod": "13:52",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8476874,
+                "firstName": {
+                  "default": "Olli"
+                },
+                "lastName": {
+                  "default": "M\u00e4\u00e4tt\u00e4",
+                  "de": "Maatta",
+                  "es": "Maatta",
+                  "fr": "Maatta"
+                },
+                "name": {
+                  "default": "O. M\u00e4\u00e4tt\u00e4",
+                  "de": "O. Maatta",
+                  "es": "O. Maatta",
+                  "fr": "O. Maatta"
+                },
+                "assistsToDate": 10,
+                "sweaterNumber": 2
+              },
+              {
+                "playerId": 8478507,
+                "firstName": {
+                  "default": "John"
+                },
+                "lastName": {
+                  "default": "Marino"
+                },
+                "name": {
+                  "default": "J. Marino"
+                },
+                "assistsToDate": 3,
+                "sweaterNumber": 6
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020790/ev810.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1551",
+            "eventId": 993,
+            "strength": "ev",
+            "playerId": 8473512,
+            "firstName": {
+              "default": "Claude"
+            },
+            "lastName": {
+              "default": "Giroux"
+            },
+            "name": {
+              "default": "C. Giroux"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8473512.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/uta-ott-giroux-scores-goal-against-karel-vejmelka-6367806630112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/uta-ott-giroux-marque-un-but-contre-karel-vejmelka-6367806915112",
+            "highlightClip": 6367806630112,
+            "highlightClipFr": 6367806915112,
+            "discreteClip": 6367806431112,
+            "discreteClipFr": 6367805636112,
+            "goalsToDate": 10,
+            "awayScore": 1,
+            "homeScore": 2,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "07:33",
+            "shotType": "backhand",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8482116,
+                "firstName": {
+                  "default": "Tim"
+                },
+                "lastName": {
+                  "default": "St\u00fctzle"
+                },
+                "name": {
+                  "default": "T. St\u00fctzle"
+                },
+                "assistsToDate": 31,
+                "sweaterNumber": 18
+              },
+              {
+                "playerId": 8482105,
+                "firstName": {
+                  "default": "Jake"
+                },
+                "lastName": {
+                  "default": "Sanderson"
+                },
+                "name": {
+                  "default": "J. Sanderson"
+                },
+                "assistsToDate": 25,
+                "sweaterNumber": 85
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020790/ev993.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": true
+          },
+          {
+            "situationCode": "1551",
+            "eventId": 1074,
+            "strength": "ev",
+            "playerId": 8480801,
+            "firstName": {
+              "default": "Brady"
+            },
+            "lastName": {
+              "default": "Tkachuk"
+            },
+            "name": {
+              "default": "B. Tkachuk"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8480801.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/uta-ott-tkachuk-scores-goal-against-karel-vejmelka-6367805363112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/uta-ott-tkachuk-marque-un-but-contre-karel-vejmelka-6367805856112",
+            "highlightClip": 6367805363112,
+            "highlightClipFr": 6367805856112,
+            "discreteClip": 6367805950112,
+            "discreteClipFr": 6367806053112,
+            "goalsToDate": 19,
+            "awayScore": 1,
+            "homeScore": 3,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "13:22",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8482116,
+                "firstName": {
+                  "default": "Tim"
+                },
+                "lastName": {
+                  "default": "St\u00fctzle"
+                },
+                "name": {
+                  "default": "T. St\u00fctzle"
+                },
+                "assistsToDate": 32,
+                "sweaterNumber": 18
+              },
+              {
+                "playerId": 8473512,
+                "firstName": {
+                  "default": "Claude"
+                },
+                "lastName": {
+                  "default": "Giroux"
+                },
+                "name": {
+                  "default": "C. Giroux"
+                },
+                "assistsToDate": 23,
+                "sweaterNumber": 28
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024020790/ev1074.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": true
+          }
+        ]
+      }
+    ],
+    "shootout": [],
+    "threeStars": [
+      {
+        "star": 1,
+        "playerId": 8473512,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8473512.png",
+        "name": {
+          "default": "C. Giroux"
+        },
+        "sweaterNo": 28,
+        "position": "R",
+        "goals": 1,
+        "assists": 1,
+        "points": 2
+      },
+      {
+        "star": 2,
+        "playerId": 8482447,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482447.png",
+        "name": {
+          "default": "L. Meril\u00e4inen"
+        },
+        "sweaterNo": 1,
+        "position": "G",
+        "goalsAgainstAverage": 1.0,
+        "savePctg": 0.971
+      },
+      {
+        "star": 3,
+        "playerId": 8479343,
+        "teamAbbrev": "UTA",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/UTA/8479343.png",
+        "name": {
+          "default": "C. Keller"
+        },
+        "sweaterNo": 9,
+        "position": "R",
+        "goals": 1,
+        "assists": 0,
+        "points": 1
+      }
+    ],
+    "penalties": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "17:45",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Amadio"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "Michael Kesselring"
+            },
+            "descKey": "tripping"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "05:28",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "Michael Kesselring"
+            },
+            "teamAbbrev": {
+              "default": "UTA"
+            },
+            "drawnBy": {
+              "default": "B. Tkachuk"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "08:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Chabot"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "descKey": "delaying-game-puck-over-glass"
+          },
+          {
+            "timeInPeriod": "08:52",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "Logan Cooley"
+            },
+            "teamAbbrev": {
+              "default": "UTA"
+            },
+            "drawnBy": {
+              "default": "J. Norris"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "11:50",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "J. Norris"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "L. Crouse"
+            },
+            "descKey": "slashing"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "08:59",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "J. V\u00e4lim\u00e4ki",
+              "de": "J. Valimaki",
+              "es": "J. Valimaki",
+              "fr": "J. Valimaki"
+            },
+            "teamAbbrev": {
+              "default": "UTA"
+            },
+            "drawnBy": {
+              "default": "D. Batherson"
+            },
+            "descKey": "tripping"
+          }
+        ]
+      }
+    ]
+  },
+  "clock": {
+    "timeRemaining": "00:00",
+    "secondsRemaining": 0,
+    "running": false,
+    "inIntermission": false
+  }
+}

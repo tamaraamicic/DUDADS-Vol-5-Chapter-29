@@ -1,0 +1,649 @@
+{
+  "id": 2024010037,
+  "season": 20242025,
+  "gameType": 1,
+  "limitedScoring": false,
+  "gameDate": "2024-09-26",
+  "venue": {
+    "default": "Canadian Tire Centre"
+  },
+  "venueLocation": {
+    "default": "Ottawa"
+  },
+  "startTimeUTC": "2024-09-26T23:00:00Z",
+  "easternUTCOffset": "-04:00",
+  "venueUTCOffset": "-04:00",
+  "venueTimezone": "US/Eastern",
+  "periodDescriptor": {
+    "number": 4,
+    "periodType": "OT",
+    "maxRegulationPeriods": 3
+  },
+  "tvBroadcasts": [
+    {
+      "id": 294,
+      "market": "H",
+      "countryCode": "CA",
+      "network": "TSN5",
+      "sequenceNumber": 135
+    }
+  ],
+  "gameState": "FINAL",
+  "gameScheduleState": "OK",
+  "awayTeam": {
+    "id": 7,
+    "commonName": {
+      "default": "Sabres"
+    },
+    "abbrev": "BUF",
+    "placeName": {
+      "default": "Buffalo"
+    },
+    "placeNameWithPreposition": {
+      "default": "Buffalo",
+      "fr": "de Buffalo"
+    },
+    "score": 3,
+    "sog": 41,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg"
+  },
+  "homeTeam": {
+    "id": 9,
+    "commonName": {
+      "default": "Senators",
+      "fr": "S\u00e9nateurs"
+    },
+    "abbrev": "OTT",
+    "placeName": {
+      "default": "Ottawa"
+    },
+    "placeNameWithPreposition": {
+      "default": "Ottawa",
+      "fr": "d'Ottawa"
+    },
+    "score": 2,
+    "sog": 16,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+  },
+  "shootoutInUse": true,
+  "maxPeriods": 5,
+  "regPeriods": 3,
+  "otInUse": true,
+  "tiesInUse": false,
+  "summary": {
+    "scoring": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1551",
+            "eventId": 211,
+            "strength": "ev",
+            "playerId": 8479393,
+            "firstName": {
+              "default": "Noah"
+            },
+            "lastName": {
+              "default": "Gregor"
+            },
+            "name": {
+              "default": "N. Gregor"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8479393.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/buf-ott-gregor-scores-goal-against-felix-sandstrom-6362518438112",
+            "highlightClip": 6362518438112,
+            "discreteClip": 6362517064112,
+            "goalsToDate": 1,
+            "awayScore": 0,
+            "homeScore": 1,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "07:55",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8484759,
+                "firstName": {
+                  "default": "Carter"
+                },
+                "lastName": {
+                  "default": "Yakemchuk"
+                },
+                "name": {
+                  "default": "C. Yakemchuk"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 58
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024010037/ev211.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": true
+          },
+          {
+            "situationCode": "1551",
+            "eventId": 237,
+            "strength": "ev",
+            "playerId": 8482623,
+            "firstName": {
+              "default": "Josh"
+            },
+            "lastName": {
+              "default": "Dunne"
+            },
+            "name": {
+              "default": "J. Dunne"
+            },
+            "teamAbbrev": {
+              "default": "BUF"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BUF/8482623.png",
+            "discreteClip": 6362516864112,
+            "goalsToDate": 1,
+            "awayScore": 1,
+            "homeScore": 1,
+            "timeInPeriod": "10:00",
+            "shotType": "snap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8483732,
+                "firstName": {
+                  "default": "Vsevolod"
+                },
+                "lastName": {
+                  "default": "Komarov"
+                },
+                "name": {
+                  "default": "V. Komarov"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 76
+              },
+              {
+                "playerId": 8482151,
+                "firstName": {
+                  "default": "Tyler"
+                },
+                "lastName": {
+                  "default": "Tullio"
+                },
+                "name": {
+                  "default": "T. Tullio"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 59
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024010037/ev237.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": false
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": []
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1451",
+            "eventId": 953,
+            "strength": "pp",
+            "playerId": 8478874,
+            "firstName": {
+              "default": "Adam"
+            },
+            "lastName": {
+              "default": "Gaudette"
+            },
+            "name": {
+              "default": "A. Gaudette"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8478874.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/buf-ott-gaudette-scores-goal-against-felix-sandstrom-6362520516112",
+            "highlightClip": 6362520516112,
+            "discreteClip": 6362520897112,
+            "goalsToDate": 1,
+            "awayScore": 1,
+            "homeScore": 2,
+            "leadingTeamAbbrev": {
+              "default": "OTT"
+            },
+            "timeInPeriod": "11:46",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8482674,
+                "firstName": {
+                  "default": "Tyler"
+                },
+                "lastName": {
+                  "default": "Boucher"
+                },
+                "name": {
+                  "default": "T. Boucher"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 54
+              },
+              {
+                "playerId": 8484759,
+                "firstName": {
+                  "default": "Carter"
+                },
+                "lastName": {
+                  "default": "Yakemchuk"
+                },
+                "name": {
+                  "default": "C. Yakemchuk"
+                },
+                "assistsToDate": 2,
+                "sweaterNumber": 58
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024010037/ev953.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": true
+          },
+          {
+            "situationCode": "0651",
+            "eventId": 1051,
+            "strength": "ev",
+            "playerId": 8482765,
+            "firstName": {
+              "default": "Isak"
+            },
+            "lastName": {
+              "default": "Rosen"
+            },
+            "name": {
+              "default": "I. Rosen"
+            },
+            "teamAbbrev": {
+              "default": "BUF"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BUF/8482765.png",
+            "discreteClip": 6362522006112,
+            "goalsToDate": 1,
+            "awayScore": 2,
+            "homeScore": 2,
+            "timeInPeriod": "19:19",
+            "shotType": "slap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8483732,
+                "firstName": {
+                  "default": "Vsevolod"
+                },
+                "lastName": {
+                  "default": "Komarov"
+                },
+                "name": {
+                  "default": "V. Komarov"
+                },
+                "assistsToDate": 2,
+                "sweaterNumber": 76
+              },
+              {
+                "playerId": 8484797,
+                "firstName": {
+                  "default": "Konsta"
+                },
+                "lastName": {
+                  "default": "Helenius"
+                },
+                "name": {
+                  "default": "K. Helenius"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 94
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024010037/ev1051.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": false
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 4,
+          "periodType": "OT",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1331",
+            "eventId": 1073,
+            "strength": "ev",
+            "playerId": 8483500,
+            "firstName": {
+              "default": "Noah"
+            },
+            "lastName": {
+              "default": "Ostlund"
+            },
+            "name": {
+              "default": "N. Ostlund"
+            },
+            "teamAbbrev": {
+              "default": "BUF"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BUF/8483500.png",
+            "discreteClip": 6362519334112,
+            "goalsToDate": 1,
+            "awayScore": 3,
+            "homeScore": 2,
+            "leadingTeamAbbrev": {
+              "default": "BUF"
+            },
+            "timeInPeriod": "02:01",
+            "shotType": "slap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8484305,
+                "firstName": {
+                  "default": "Zach"
+                },
+                "lastName": {
+                  "default": "Metsa"
+                },
+                "name": {
+                  "default": "Z. Metsa"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 73
+              },
+              {
+                "playerId": 8483496,
+                "firstName": {
+                  "default": "Viktor"
+                },
+                "lastName": {
+                  "default": "Neuchev"
+                },
+                "name": {
+                  "default": "V. Neuchev"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 79
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024010037/ev1073.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          }
+        ]
+      }
+    ],
+    "shootout": [],
+    "threeStars": [
+      {
+        "star": 1,
+        "playerId": 8483500,
+        "teamAbbrev": "BUF",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BUF/8483500.png",
+        "name": {
+          "default": "N. Ostlund"
+        },
+        "sweaterNo": 36,
+        "position": "C",
+        "goals": 1,
+        "assists": 0,
+        "points": 1
+      },
+      {
+        "star": 2,
+        "playerId": 8484759,
+        "teamAbbrev": "OTT",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8484759.png",
+        "name": {
+          "default": "C. Yakemchuk"
+        },
+        "sweaterNo": 58,
+        "position": "D",
+        "goals": 0,
+        "assists": 2,
+        "points": 2
+      },
+      {
+        "star": 3,
+        "playerId": 8482623,
+        "teamAbbrev": "BUF",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/BUF/8482623.png",
+        "name": {
+          "default": "J. Dunne"
+        },
+        "sweaterNo": 44,
+        "position": "C",
+        "goals": 1,
+        "assists": 0,
+        "points": 1
+      }
+    ],
+    "penalties": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "02:56",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Novikov"
+            },
+            "teamAbbrev": {
+              "default": "BUF"
+            },
+            "drawnBy": {
+              "default": "N. Gregor"
+            },
+            "descKey": "high-sticking"
+          },
+          {
+            "timeInPeriod": "04:23",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "Carter Yakemchuk"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "Noah Laaouan"
+            },
+            "descKey": "cross-checking"
+          },
+          {
+            "timeInPeriod": "10:22",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Kleven"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "O. Nadeau"
+            },
+            "descKey": "interference"
+          },
+          {
+            "timeInPeriod": "13:14",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "D. Sebrango"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "B. Warren"
+            },
+            "descKey": "boarding",
+            "servedBy": {
+              "default": "X. Bourgault"
+            }
+          },
+          {
+            "timeInPeriod": "13:14",
+            "type": "MAJ",
+            "duration": 5,
+            "committedByPlayer": {
+              "default": "J. Dunne"
+            },
+            "teamAbbrev": {
+              "default": "BUF"
+            },
+            "drawnBy": {
+              "default": "D. Sebrango"
+            },
+            "descKey": "fighting"
+          },
+          {
+            "timeInPeriod": "13:14",
+            "type": "MAJ",
+            "duration": 5,
+            "committedByPlayer": {
+              "default": "D. Sebrango"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "J. Dunne"
+            },
+            "descKey": "fighting"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "03:38",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "C. Addison"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "O. Nadeau"
+            },
+            "descKey": "cross-checking"
+          },
+          {
+            "timeInPeriod": "07:03",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "X. Bourgault"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "N. Novikov"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "17:04",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Gregor"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "Noah Laaouan"
+            },
+            "descKey": "tripping"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "09:55",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "Konsta Helenius"
+            },
+            "teamAbbrev": {
+              "default": "BUF"
+            },
+            "drawnBy": {
+              "default": "Angus Crookshank"
+            },
+            "descKey": "interference"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 4,
+          "periodType": "OT",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": []
+      }
+    ]
+  },
+  "clock": {
+    "timeRemaining": "02:59",
+    "secondsRemaining": 179,
+    "running": false,
+    "inIntermission": false
+  }
+}

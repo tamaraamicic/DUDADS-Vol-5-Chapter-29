@@ -1,0 +1,1096 @@
+{
+  "id": 2024030111,
+  "season": 20242025,
+  "gameType": 3,
+  "limitedScoring": false,
+  "gameDate": "2025-04-20",
+  "venue": {
+    "default": "Scotiabank Arena"
+  },
+  "venueLocation": {
+    "default": "Toronto"
+  },
+  "startTimeUTC": "2025-04-20T23:00:00Z",
+  "easternUTCOffset": "-04:00",
+  "venueUTCOffset": "-04:00",
+  "venueTimezone": "America/Toronto",
+  "periodDescriptor": {
+    "number": 3,
+    "periodType": "REG",
+    "maxRegulationPeriods": 3
+  },
+  "tvBroadcasts": [
+    {
+      "id": 307,
+      "market": "N",
+      "countryCode": "US",
+      "network": "ESPN2",
+      "sequenceNumber": 12
+    },
+    {
+      "id": 4,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "CBC",
+      "sequenceNumber": 25
+    },
+    {
+      "id": 282,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "SN",
+      "sequenceNumber": 101
+    },
+    {
+      "id": 281,
+      "market": "N",
+      "countryCode": "CA",
+      "network": "TVAS",
+      "sequenceNumber": 109
+    }
+  ],
+  "gameState": "OFF",
+  "gameScheduleState": "OK",
+  "awayTeam": {
+    "id": 9,
+    "commonName": {
+      "default": "Senators",
+      "fr": "S\u00e9nateurs"
+    },
+    "abbrev": "OTT",
+    "placeName": {
+      "default": "Ottawa"
+    },
+    "placeNameWithPreposition": {
+      "default": "Ottawa",
+      "fr": "d'Ottawa"
+    },
+    "score": 2,
+    "sog": 33,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg"
+  },
+  "homeTeam": {
+    "id": 10,
+    "commonName": {
+      "default": "Maple Leafs"
+    },
+    "abbrev": "TOR",
+    "placeName": {
+      "default": "Toronto"
+    },
+    "placeNameWithPreposition": {
+      "default": "Toronto",
+      "fr": "de Toronto"
+    },
+    "score": 6,
+    "sog": 24,
+    "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg",
+    "darkLogo": "https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg"
+  },
+  "shootoutInUse": false,
+  "regPeriods": 3,
+  "otInUse": true,
+  "tiesInUse": false,
+  "summary": {
+    "scoring": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1551",
+            "eventId": 164,
+            "strength": "ev",
+            "playerId": 8475171,
+            "firstName": {
+              "default": "Oliver"
+            },
+            "lastName": {
+              "default": "Ekman-Larsson"
+            },
+            "name": {
+              "default": "O. Ekman-Larsson"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8475171.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-ekman-larsson-scores-goal-against-linus-ullmark-6371735076112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-ekman-larsson-marque-un-but-contre-linus-ullmark-6371736321112",
+            "highlightClip": 6371735076112,
+            "highlightClipFr": 6371736321112,
+            "discreteClip": 6371735548112,
+            "discreteClipFr": 6371735166112,
+            "goalsToDate": 1,
+            "awayScore": 0,
+            "homeScore": 1,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "07:09",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8476872,
+                "firstName": {
+                  "default": "Scott"
+                },
+                "lastName": {
+                  "default": "Laughton"
+                },
+                "name": {
+                  "default": "S. Laughton"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 24
+              },
+              {
+                "playerId": 8475714,
+                "firstName": {
+                  "default": "Calle"
+                },
+                "lastName": {
+                  "default": "Jarnkrok",
+                  "cs": "J\u00e4rnkrok",
+                  "fi": "J\u00e4rnkrok",
+                  "sk": "J\u00e4rnkrok"
+                },
+                "name": {
+                  "default": "C. Jarnkrok",
+                  "cs": "C. J\u00e4rnkrok",
+                  "fi": "C. J\u00e4rnkrok",
+                  "sk": "C. J\u00e4rnkrok"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 19
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev164.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": true
+          },
+          {
+            "situationCode": "1551",
+            "eventId": 357,
+            "strength": "ev",
+            "playerId": 8478483,
+            "firstName": {
+              "default": "Mitch",
+              "cs": "Mitchell",
+              "de": "Mitchell",
+              "es": "Mitchell",
+              "fi": "Mitchell",
+              "sk": "Mitchell",
+              "sv": "Mitchell"
+            },
+            "lastName": {
+              "default": "Marner"
+            },
+            "name": {
+              "default": "M. Marner"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8478483.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-marner-scores-goal-against-linus-ullmark-6371734975112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-marner-marque-un-but-contre-linus-ullmark-6371737623112",
+            "highlightClip": 6371734975112,
+            "highlightClipFr": 6371737623112,
+            "discreteClip": 6371735265112,
+            "discreteClipFr": 6371737027112,
+            "goalsToDate": 1,
+            "awayScore": 0,
+            "homeScore": 2,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "12:18",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8479318,
+                "firstName": {
+                  "default": "Auston"
+                },
+                "lastName": {
+                  "default": "Matthews"
+                },
+                "name": {
+                  "default": "A. Matthews"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 34
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev357.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": true
+          },
+          {
+            "situationCode": "1551",
+            "eventId": 421,
+            "strength": "ev",
+            "playerId": 8480208,
+            "firstName": {
+              "default": "Drake"
+            },
+            "lastName": {
+              "default": "Batherson"
+            },
+            "name": {
+              "default": "D. Batherson"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8480208.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-batherson-scores-goal-against-anthony-stolarz-6371736150112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-batherson-marque-un-but-contre-anthony-stolarz-6371736440112",
+            "highlightClip": 6371736150112,
+            "highlightClipFr": 6371736440112,
+            "discreteClip": 6371737919112,
+            "discreteClipFr": 6371736741112,
+            "goalsToDate": 1,
+            "awayScore": 1,
+            "homeScore": 2,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "16:18",
+            "shotType": "snap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8481528,
+                "firstName": {
+                  "default": "Dylan"
+                },
+                "lastName": {
+                  "default": "Cozens"
+                },
+                "name": {
+                  "default": "D. Cozens"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 24
+              },
+              {
+                "playerId": 8474102,
+                "firstName": {
+                  "default": "David"
+                },
+                "lastName": {
+                  "default": "Perron"
+                },
+                "name": {
+                  "default": "D. Perron"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 57
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev421.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "1451",
+            "eventId": 606,
+            "strength": "pp",
+            "playerId": 8475166,
+            "firstName": {
+              "default": "John"
+            },
+            "lastName": {
+              "default": "Tavares"
+            },
+            "name": {
+              "default": "J. Tavares"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8475166.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-tavares-scores-goal-against-linus-ullmark-6371736756112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-tavares-marque-un-but-contre-linus-ullmark-6371736647112",
+            "highlightClip": 6371736756112,
+            "highlightClipFr": 6371736647112,
+            "discreteClip": 6371737643112,
+            "discreteClipFr": 6371736955112,
+            "goalsToDate": 1,
+            "awayScore": 1,
+            "homeScore": 3,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "04:07",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8477939,
+                "firstName": {
+                  "default": "William"
+                },
+                "lastName": {
+                  "default": "Nylander"
+                },
+                "name": {
+                  "default": "W. Nylander"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 88
+              },
+              {
+                "playerId": 8478483,
+                "firstName": {
+                  "default": "Mitch",
+                  "cs": "Mitchell",
+                  "de": "Mitchell",
+                  "es": "Mitchell",
+                  "fi": "Mitchell",
+                  "sk": "Mitchell",
+                  "sv": "Mitchell"
+                },
+                "lastName": {
+                  "default": "Marner"
+                },
+                "name": {
+                  "default": "M. Marner"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 16
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev606.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": true
+          },
+          {
+            "situationCode": "1351",
+            "eventId": 702,
+            "strength": "pp",
+            "playerId": 8477939,
+            "firstName": {
+              "default": "William"
+            },
+            "lastName": {
+              "default": "Nylander"
+            },
+            "name": {
+              "default": "W. Nylander"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8477939.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-nylander-scores-ppg-against-linus-ullmark-6371738225112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-nylander-marque-un-but-en-a-n-contre-linus-ullmark-6371738521112",
+            "highlightClip": 6371738225112,
+            "highlightClipFr": 6371738521112,
+            "discreteClip": 6371737047112,
+            "discreteClipFr": 6371736960112,
+            "goalsToDate": 1,
+            "awayScore": 1,
+            "homeScore": 4,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "07:19",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8475166,
+                "firstName": {
+                  "default": "John"
+                },
+                "lastName": {
+                  "default": "Tavares"
+                },
+                "name": {
+                  "default": "J. Tavares"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 91
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev702.json",
+            "homeTeamDefendingSide": "left",
+            "isHome": true
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "goals": [
+          {
+            "situationCode": "0651",
+            "eventId": 974,
+            "strength": "ev",
+            "playerId": 8482092,
+            "firstName": {
+              "default": "Ridly"
+            },
+            "lastName": {
+              "default": "Greig"
+            },
+            "name": {
+              "default": "R. Greig"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/OTT/8482092.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-greig-scores-goal-against-anthony-stolarz-6371739127112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-greig-marque-un-but-contre-anthony-stolarz-6371736793112",
+            "highlightClip": 6371739127112,
+            "highlightClipFr": 6371736793112,
+            "discreteClip": 6371736792112,
+            "discreteClipFr": 6371736364112,
+            "goalsToDate": 1,
+            "awayScore": 2,
+            "homeScore": 4,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "04:00",
+            "shotType": "snap",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8478020,
+                "firstName": {
+                  "default": "Michael"
+                },
+                "lastName": {
+                  "default": "Amadio"
+                },
+                "name": {
+                  "default": "M. Amadio"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 22
+              },
+              {
+                "playerId": 8481596,
+                "firstName": {
+                  "default": "Shane"
+                },
+                "lastName": {
+                  "default": "Pinto"
+                },
+                "name": {
+                  "default": "S. Pinto"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 12
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev974.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": false
+          },
+          {
+            "situationCode": "1551",
+            "eventId": 988,
+            "strength": "ev",
+            "playerId": 8476853,
+            "firstName": {
+              "default": "Morgan"
+            },
+            "lastName": {
+              "default": "Rielly"
+            },
+            "name": {
+              "default": "M. Rielly"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8476853.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-rielly-scores-goal-against-linus-ullmark-6371737365112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-rielly-marque-un-but-contre-linus-ullmark-6371736485112",
+            "highlightClip": 6371737365112,
+            "highlightClipFr": 6371736485112,
+            "discreteClip": 6371736288112,
+            "discreteClipFr": 6371738752112,
+            "goalsToDate": 1,
+            "awayScore": 2,
+            "homeScore": 5,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "04:45",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8481582,
+                "firstName": {
+                  "default": "Nicholas"
+                },
+                "lastName": {
+                  "default": "Robertson"
+                },
+                "name": {
+                  "default": "N. Robertson"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 89
+              },
+              {
+                "playerId": 8482259,
+                "firstName": {
+                  "default": "Bobby"
+                },
+                "lastName": {
+                  "default": "McMann"
+                },
+                "name": {
+                  "default": "B. McMann"
+                },
+                "assistsToDate": 1,
+                "sweaterNumber": 74
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev988.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": true
+          },
+          {
+            "situationCode": "1451",
+            "eventId": 1131,
+            "strength": "pp",
+            "playerId": 8482720,
+            "firstName": {
+              "default": "Matthew"
+            },
+            "lastName": {
+              "default": "Knies"
+            },
+            "name": {
+              "default": "M. Knies"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8482720.png",
+            "highlightClipSharingUrl": "https://nhl.com/video/ott-tor-knies-scores-ppg-against-linus-ullmark-6371738767112",
+            "highlightClipSharingUrlFr": "https://nhl.com/fr/video/ott-tor-knies-marque-un-but-en-a-n-contre-linus-ullmark-6371736898112",
+            "highlightClip": 6371738767112,
+            "highlightClipFr": 6371736898112,
+            "discreteClip": 6371737971112,
+            "discreteClipFr": 6371738362112,
+            "goalsToDate": 1,
+            "awayScore": 2,
+            "homeScore": 6,
+            "leadingTeamAbbrev": {
+              "default": "TOR"
+            },
+            "timeInPeriod": "13:13",
+            "shotType": "wrist",
+            "goalModifier": "none",
+            "assists": [
+              {
+                "playerId": 8479318,
+                "firstName": {
+                  "default": "Auston"
+                },
+                "lastName": {
+                  "default": "Matthews"
+                },
+                "name": {
+                  "default": "A. Matthews"
+                },
+                "assistsToDate": 2,
+                "sweaterNumber": 34
+              },
+              {
+                "playerId": 8478483,
+                "firstName": {
+                  "default": "Mitch",
+                  "cs": "Mitchell",
+                  "de": "Mitchell",
+                  "es": "Mitchell",
+                  "fi": "Mitchell",
+                  "sk": "Mitchell",
+                  "sv": "Mitchell"
+                },
+                "lastName": {
+                  "default": "Marner"
+                },
+                "name": {
+                  "default": "M. Marner"
+                },
+                "assistsToDate": 2,
+                "sweaterNumber": 16
+              }
+            ],
+            "pptReplayUrl": "https://wsr.nhle.com/sprites/20242025/2024030111/ev1131.json",
+            "homeTeamDefendingSide": "right",
+            "isHome": true
+          }
+        ]
+      }
+    ],
+    "shootout": [],
+    "threeStars": [
+      {
+        "star": 1,
+        "playerId": 8478483,
+        "teamAbbrev": "TOR",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8478483.png",
+        "name": {
+          "default": "M. Marner"
+        },
+        "sweaterNo": 16,
+        "position": "R",
+        "goals": 1,
+        "assists": 2,
+        "points": 3
+      },
+      {
+        "star": 2,
+        "playerId": 8475166,
+        "teamAbbrev": "TOR",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8475166.png",
+        "name": {
+          "default": "J. Tavares"
+        },
+        "sweaterNo": 91,
+        "position": "C",
+        "goals": 1,
+        "assists": 1,
+        "points": 2
+      },
+      {
+        "star": 3,
+        "playerId": 8476932,
+        "teamAbbrev": "TOR",
+        "headshot": "https://assets.nhle.com/mugs/nhl/20242025/TOR/8476932.png",
+        "name": {
+          "default": "A. Stolarz"
+        },
+        "sweaterNo": 41,
+        "position": "G",
+        "goalsAgainstAverage": 2.0,
+        "savePctg": 0.939
+      }
+    ],
+    "penalties": [
+      {
+        "periodDescriptor": {
+          "number": 1,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": []
+      },
+      {
+        "periodDescriptor": {
+          "number": 2,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "03:58",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. St\u00fctzle"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "C. Tanev"
+            },
+            "descKey": "boarding"
+          },
+          {
+            "timeInPeriod": "06:00",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "R. Greig"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "J. Tavares"
+            },
+            "descKey": "cross-checking"
+          },
+          {
+            "timeInPeriod": "07:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "A. Gaudette"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "A. Matthews"
+            },
+            "descKey": "cross-checking"
+          },
+          {
+            "timeInPeriod": "12:42",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "W. Nylander"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "D. Cozens"
+            },
+            "descKey": "hooking"
+          },
+          {
+            "timeInPeriod": "19:47",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "D. Batherson"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "C. Jarnkrok",
+              "cs": "C. J\u00e4rnkrok",
+              "fi": "C. J\u00e4rnkrok",
+              "sk": "C. J\u00e4rnkrok"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "19:47",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "B. Tkachuk"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "S. Laughton"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:47",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "S. Laughton"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "B. Tkachuk"
+            },
+            "descKey": "roughing"
+          }
+        ]
+      },
+      {
+        "periodDescriptor": {
+          "number": 3,
+          "periodType": "REG",
+          "maxRegulationPeriods": 3
+        },
+        "penalties": [
+          {
+            "timeInPeriod": "13:05",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "D. Batherson"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "O. Ekman-Larsson"
+            },
+            "descKey": "cross-checking"
+          },
+          {
+            "timeInPeriod": "13:05",
+            "type": "MIS",
+            "duration": 10,
+            "committedByPlayer": {
+              "default": "D. Cozens"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "descKey": "misconduct"
+          },
+          {
+            "timeInPeriod": "14:27",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Kleven"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "S. Laughton"
+            },
+            "descKey": "high-sticking"
+          },
+          {
+            "timeInPeriod": "16:42",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "O. Ekman-Larsson"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "T. St\u00fctzle"
+            },
+            "descKey": "tripping"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Robertson"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "M. Highmore"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "A. Gaudette"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "M. Domi"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Amadio"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "Bobby McMann"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Domi"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "A. Gaudette"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "S. Benoit"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "M. Highmore"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Highmore"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "S. Benoit"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "Bobby McMann"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "Nikolas Matinpalo"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "Nikolas Matinpalo"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "Bobby McMann"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "B. Carlo"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "T. Kleven"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "T. Kleven"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "B. Carlo"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "M. Highmore"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "N. Robertson"
+            },
+            "descKey": "roughing"
+          },
+          {
+            "timeInPeriod": "19:16",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Robertson"
+            },
+            "teamAbbrev": {
+              "default": "TOR"
+            },
+            "drawnBy": {
+              "default": "Nikolas Matinpalo"
+            },
+            "descKey": "high-sticking"
+          },
+          {
+            "timeInPeriod": "20:00",
+            "type": "MIN",
+            "duration": 2,
+            "committedByPlayer": {
+              "default": "N. Jensen"
+            },
+            "teamAbbrev": {
+              "default": "OTT"
+            },
+            "drawnBy": {
+              "default": "Pontus Holmberg"
+            },
+            "descKey": "roughing"
+          }
+        ]
+      }
+    ]
+  },
+  "clock": {
+    "timeRemaining": "00:00",
+    "secondsRemaining": 0,
+    "running": false,
+    "inIntermission": false
+  }
+}
